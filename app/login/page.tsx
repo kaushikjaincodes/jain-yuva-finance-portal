@@ -52,7 +52,7 @@ export default function LoginPage() {
           <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-primary">
             <Shield className="h-7 w-7 text-primary-foreground" />
           </div>
-          <CardTitle className="text-2xl font-bold">Bachaat Committee</CardTitle>
+          <CardTitle className="text-2xl font-bold">Jain Yuva Seva Sangathan Samiti</CardTitle>
           <CardDescription>Admin Panel Login</CardDescription>
         </CardHeader>
         <CardContent>
